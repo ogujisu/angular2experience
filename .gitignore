@@ -1,3 +1,9 @@
 *.js
 *.map
+<<<<<<< HEAD
 node_modules/*
+=======
+*.vscode
+node_modules
+typings
+>>>>>>> 2fdbd1e04f2c62de66ebcc0742d912cfcde470ae
